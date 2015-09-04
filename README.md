@@ -22,7 +22,7 @@ It's licensed under [MIT](http://opensource.org/licenses/MIT). For full tablesaw
 
 Note
 ---------------
-The `CSS` is not included with this plugin. This plugin was created to work with the [Envisioned Theme](https://github.com/nogginfuel/Envisioned-YellowCMS-Theme) which has the Tablesaw Stackonly styles contained within it.
+The `CSS` is not included with this plugin. This plugin was created to work with the [Envisioned Theme](https://github.com/nogginfuel/YellowCMS-Envisioned-Theme) which has the Tablesaw Stackonly styles contained within it.
 
 
 Feedback
